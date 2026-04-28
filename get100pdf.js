@@ -2,10 +2,8 @@
 // EDIT HERE - change these values before running
 // ============================================================
 const FAKE = {
-    name:       "Nguyễn Văn A",   // student name
-    class:      "10A1",            // class
-    correct:    18,                // number of correct answers
-    total:      20,                // total questions
+    correct:    30,                // number of correct answers
+    total:      30,                // total questions
     // fake clock (set to whatever time you want on the PDF)
     date:       "28/04/2025",
     time:       "08:30",
